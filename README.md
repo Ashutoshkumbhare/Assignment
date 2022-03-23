@@ -25,7 +25,8 @@ Google Image search
 Also I had used images from the given video to give model some real life stuff and such strategy will definitely increase the accuracy of the model.
 
 **Data Augmentation**
-	I had not done much augmentation in this project on images, as it was not required. Generally with color contrast, image sharpning, gray scale images, rotating, zooming etc we can increase the dataset artificially.
+
+I had not done much augmentation in this project on images, as it was not required. Generally with color contrast, image sharpning, gray scale images, rotating, zooming etc we can increase the dataset artificially.
 
 **Data Annotation**
 	For annotating images I had used labeimg tool.

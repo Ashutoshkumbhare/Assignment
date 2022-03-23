@@ -16,7 +16,7 @@ Note: Fine-Tuning: It means we have weights (trained weights) on top of that we 
 
 **Data Selection**
 
-          The first step towards having a high-quality training set is understanding the collected data.It is very important process while creating CV model. The data should not be biases as I had collected images from day time as well as in night time. Also there are many other points to be remember while collecting dataset.
+   The first step towards having a high-quality training set is understanding the collected data.It is very important process while creating CV model. The data should not be biases as I had collected images from day time as well as in night time. Also there are many other points to be remember while collecting dataset.
 Now a days there are many sites where we can get annotated dataset, some sites that I had used:
 Google- Open image Dataset
 Google Search dataset
